@@ -11,11 +11,14 @@ Este proyecto es una aplicación interactiva en Python que consume la API de Gra
 
 ## Requisitos
 - Python 3
-- Librería `requests`
+- Librería requests
 - API Key activa de Graphhopper
 
 ## Instrucciones de Ejecución
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/jtoledob-lab/Evaluacion2.git](https://github.com/jtoledob-lab/Evaluacion2.git)
-   cd Evaluacion2
+
+1. Clonar el repositorio y entrar a la carpeta:
+git clone [https://github.com/jtoledob-lab/Evaluacion2.git](https://github.com/jtoledob-lab/Evaluacion2.git)
+cd Evaluacion2
+
+2. Ejecutar el script principal:
+python3 graphhopper_parse-json_7.py
